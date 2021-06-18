@@ -1,0 +1,16 @@
+package com.malak.Routing;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RoutingPracticeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RoutingPracticeApplication.class, args);
+	}
+	
+	
+	
+
+}
